@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9992A863-995E-241A-54B7-3D33FED97B33}") = "bauwler-game", "Assembly-CSharp.csproj", "{578EA183-1CF2-D3E1-C83D-8BD8DA90E173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{578EA183-1CF2-D3E1-C83D-8BD8DA90E173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578EA183-1CF2-D3E1-C83D-8BD8DA90E173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578EA183-1CF2-D3E1-C83D-8BD8DA90E173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578EA183-1CF2-D3E1-C83D-8BD8DA90E173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
